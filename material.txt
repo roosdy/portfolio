@@ -1,0 +1,41 @@
+Hi there!
+
+I'm Roosdy Fisher, a self-taught programmer and machine learning enthusiast. 
+
+Ever since I wrote my first line of code at the age of 9, I have been fascinated by the power and possibilities of programming. I love creating solutions that make life easier, more fun, and more meaningful.
+
+Here are some of the skills and services I can offer you:
+
+- Front-end development: HTML, CSS, JavaScript
+- Machine learning: Python, TensorFlow, Scikit-learn
+- Data analysis and visualization: Python, Pandas, Matplotlib
+
+Here are some of the projects I have worked on:
+
+- Design Portfolio: A responsive website that showcases my design skills and portfolio. [Link]
+- E-Learning Landing Page: A landing page for an online course platform that uses HTML, CSS, and Bootstrap. [Link]
+- Todo Web App: A web app that lets you create and manage your tasks using HTML, CSS, and JavaScript. [Link]
+- Entertainment Web App: A web app that lets you browse and watch movies and TV shows using HTML, CSS, JavaScript, and an external API. [Link]
+- Memory Game: A web app that tests your memory skills using HTML, CSS, JavaScript, and jQuery. [Link]
+- Art Gallery Showcase: A web app that displays a collection of artworks using HTML, CSS, JavaScript, and Firebase. [Link]
+
+Don't just take my word for it. Here's what some of my clients and employers have said about me:
+
+"Roosdy is a talented and reliable programmer who always delivers high-quality work on time. He has a great eye for design and a knack for solving complex problems. He is also very easy to work with and always willing to learn new things." - John Smith, CEO of ABC Inc.
+
+"Roosdy is a passionate and creative machine learning enthusiast who has impressed me with his skills and projects. He has a solid understanding of the fundamentals of machine learning and data science, as well as the ability to apply them to real-world scenarios. He is also very proactive and eager to share his knowledge and insights with others." - Jane Doe, Machine Learning Instructor at XYZ Academy.
+
+Want to see more of my work or chat about your project? Feel free to visit my portfolio website [Link], check out my GitHub profile [Link], or connect with me on LinkedIn [Link].
+
+Or better yet, fill out the form below and I'll get back to you as soon as possible.
+
+Message:
+[Text box]
+
+Send Message
+
+I look forward to hearing from you soon!
+
+Cheers,
+
+Roosdy Fisher
