@@ -568,6 +568,8 @@ p > span {
 
   .projects__tags span {
     margin-inline-end: 18px;
+    padding: 5px;
+    border-radius: 10px;
   }
 
   .projects__links a {
