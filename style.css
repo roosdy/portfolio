@@ -698,6 +698,16 @@ p > span {
 .contact__control button {
   background-color: transparent;
   border: none;
+  cursor: pointer;
+  padding: 0.625rem;
+  transition: background-color 0.5s;
+  transition-timing-function: ease;
+}
+.contact__control button:hover {
+  color: var(--bg-body2);
+  background-color: var(--accent);
+  border: none;
+  /* border-radius: 15px; */
 }
 
 .contact__invalid-icon {
