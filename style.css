@@ -430,8 +430,8 @@ p > span {
 }
 
 .skills__title {
-  font-size: 2rem;
-  font-size: clamp(2rem, 0.33rem + 7.11vw, 3rem);
+  /* font-size: 1.8rem; */
+  font-size: clamp(1.8rem, 0.33rem + 7.11vw, 3rem);
   line-height: 1.17;
   margin-block-end: 2px;
 }
