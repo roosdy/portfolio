@@ -1,4 +1,3 @@
-<<<<<<< codex/update-readme-with-setup-and-customization-details
 # Portfolio
 
 This project contains a small developer portfolio website. It is built with plain HTML, CSS and JavaScript and uses [GSAP](https://greensock.com/gsap/) for scroll based animations.
@@ -29,4 +28,3 @@ Animations are defined in [`animation.js`](animation.js). You can tweak the `gsa
 
 ## Running Tests
 Execute `npm test` to run the HTML check.
->>>>>>> main
